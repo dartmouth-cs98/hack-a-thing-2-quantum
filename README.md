@@ -10,3 +10,5 @@
 [First Quantum Program](https://www.youtube.com/watch?v=RrUTwq5jKM4)
 
 [gates](https://www.youtube.com/watch?v=tBnWG_95F9c)
+
+[IBM's Tutorials](https://quantum-computing.ibm.com/jupyter)
